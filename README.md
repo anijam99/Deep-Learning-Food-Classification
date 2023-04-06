@@ -1,2 +1,1 @@
-# Deep-Learning-Food-Classification
-Deep-Learning-Food-Classification
+Model and report regarding how the food classification model is developed and used.
